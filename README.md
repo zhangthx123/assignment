@@ -18,8 +18,8 @@ Implements BB_RV_SMALL and/or BB_RV_LARGE:
 RV_SMALL: choose vehicle with smallest remaining volume
 RV_LARGE: choose vehicle with largest remaining volume.
 
-5. mymodel_cplex.py
-The MILP baseline model using IBM CPLEX.
+5. mymodel_gurobi.py
+The MILP baseline model using Gurobi.
 
 6. data/ (folder)
 Contains all datasets used for computational experiments:
